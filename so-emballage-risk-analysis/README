@@ -31,7 +31,7 @@ SO-EMBALLAGE s'appuie sur un SI hétérogène : ERP SAP (stocks, finance), serve
 ## Préconisations
 
 - **Techniques** : EDR, WAF, segmentation réseau, homogénéisation du parc Windows
-- **Organisationnelles** : rédaction d'une PSSI, charte informatique, gestion des accès (moindre privilège), procédure de gestion des incidents, conformité RGPD (DPO, registre des traitements, AIPD), audits périodiques, clauses sécurité fournisseurs
+- **Organisationnelles** : rédaction d'une PSSI, charte informatique, gestion des accès (moindre privilège), procédure de gestion des incidents, conformité RGPD (DPO, registre des traitements, AIPD), audits périodiques, clauses de sécurité fournisseurs
 - **Humaines** : programme de sensibilisation annuel (185 employés), campagnes de phishing simulé trimestrielles, formation de l'équipe IT, nomination d'un RSSI, veille sur les vulnérabilités SAP/Linux/Windows
 
 ## Conformité couverte
@@ -48,4 +48,4 @@ Projet réalisé en groupe dans le cadre de l'atelier Cyber & E-réputation (ING
 
 ## Rapport complet
 
-📄 [Rapport complet (PDF)](./SO-EMBALLAGE_Rapport.pdf) 
+📄 [Rapport complet (PDF)](./SO-EMBALLAGE_Rapport.pdf)
