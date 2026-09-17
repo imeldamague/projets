@@ -1,51 +1,78 @@
-# SO-EMBALLAGE — Analyse de risques & conformité SI
+# 🔐 SO-EMBALLAGE – Analyse de risques & conformité SI (MEHARI & EBIOS RM)
 
-Analyse de risques menée selon les méthodes **MEHARI** (CLUSIF) et **EBIOS Risk Manager** (ANSSI) sur le système d'information d'une entreprise fictive de distribution d'emballages B2B (33,8 M€ de CA, 185 salariés), dans le cadre de l'atelier *Cyber & E-réputation*.
+## 🎯 Objectif du projet
 
-## Contexte
+Ce projet explore l'**analyse de risques cyber** et la **gouvernance SSI**, à travers l'application des méthodes **MEHARI** (CLUSIF) et **EBIOS Risk Manager** (ANSSI) sur le système d'information d'une entreprise fictive de distribution d'emballages B2B (33,8 M€ de CA, 185 salariés).
 
-SO-EMBALLAGE s'appuie sur un SI hétérogène : ERP SAP (stocks, finance), serveur Linux unique hébergeant les applications métier, ~100 postes Windows aux versions disparates, site e-commerce exposé sur Internet, et connexions VPN avec des partenaires (fabricants, transporteurs, logistique). Cette étude évalue l'exposition de ce périmètre aux risques cyber et propose un plan de traitement priorisé.
+Le projet a été réalisé dans le cadre de l'atelier *Cyber & E-réputation* avec :
 
-## Méthodologies
+* Méthode MEHARI (CLUSIF)
+* Méthode EBIOS Risk Manager (ANSSI)
+* Référentiels ISO/IEC 27001 et 27005, RGPD, directive NIS2
 
-- **MEHARI** (CLUSIF) : identification des actifs, menaces et vulnérabilités, évaluation quantitative des risques (potentialité x impact), conforme ISO/IEC 27005.
-- **EBIOS Risk Manager** (ANSSI) : 5 ateliers (cadrage, sources de risques, scénarios stratégiques, scénarios opérationnels, traitement du risque), avec identification des besoins de sécurité selon les critères **DICT** (Disponibilité, Intégrité, Confidentialité, Traçabilité).
+---
 
-## Périmètre analysé
+## 🧩 Périmètre analysé
 
-- Application interne de gestion des achats/ventes
-- Modules SAP ERP (stocks, finance)
-- Serveur Linux (SPOF identifié)
-- Parc de ~100 postes Windows hétérogènes
-- Site e-commerce (catalogue, commandes en ligne)
-- Infrastructure réseau (LAN, VPN partenaires)
+Le système d'information étudié couvre :
 
-## Résultats clés
+* Application interne de gestion des achats/ventes
+* Modules SAP ERP (stocks, finance)
+* Serveur Linux (SPOF identifié)
+* Parc de ~100 postes Windows hétérogènes
+* Site e-commerce (catalogue, commandes en ligne)
+* Infrastructure réseau (LAN, VPN partenaires)
 
-- **20 scénarios de risques** modélisés et évalués, dont un scénario de type **LockBit** (ransomware)
-- **Matrice de criticité** : 4 risques critiques (ransomware, intrusion web, phishing, panne serveur), 7 risques majeurs, 9 risques significatifs à mineurs
-- **Cartographie EBIOS** des chemins d'attaque, des sources de risques jusqu'aux impacts sur les valeurs métier
-- **Retour sur investissement** des mesures de sécurité proposées : **ratio 7:1**
-- Budget de sécurité recommandé : 100-186 k€ (initial), 125-201 k€ (annuel), soit 0,37-0,59 % du CA — conforme aux recommandations sectorielles (0,5-1 % du CA)
+---
 
-## Préconisations
+## 📊 Analyse des risques (MEHARI)
 
-- **Techniques** : EDR, WAF, segmentation réseau, homogénéisation du parc Windows
-- **Organisationnelles** : rédaction d'une PSSI, charte informatique, gestion des accès (moindre privilège), procédure de gestion des incidents, conformité RGPD (DPO, registre des traitements, AIPD), audits périodiques, clauses de sécurité fournisseurs
-- **Humaines** : programme de sensibilisation annuel (185 employés), campagnes de phishing simulé trimestrielles, formation de l'équipe IT, nomination d'un RSSI, veille sur les vulnérabilités SAP/Linux/Windows
+* **20 scénarios de risques** modélisés et évalués, dont un scénario de type **LockBit** (ransomware)
+* **Matrice de criticité** : 4 risques critiques (ransomware, intrusion web, phishing, panne serveur), 7 risques majeurs, 9 risques significatifs à mineurs
+* Évaluation quantitative des risques (potentialité x impact), conforme ISO/IEC 27005
 
-## Conformité couverte
+---
 
-ISO/IEC 27001:2022, ISO/IEC 27005:2022, RGPD, directive NIS2
+## 🗺️ Gouvernance des risques (EBIOS Risk Manager)
 
-## Compétences mobilisées
+* 5 ateliers menés : cadrage, sources de risques, scénarios stratégiques, scénarios opérationnels, traitement du risque
+* Identification des besoins de sécurité selon les critères **DICT** (Disponibilité, Intégrité, Confidentialité, Traçabilité)
+* Cartographie des chemins d'attaque, des sources de risques jusqu'aux impacts sur les valeurs métier
 
-Analyse de risques (MEHARI, EBIOS RM) · Gouvernance SSI · Rédaction de PSSI · Conformité réglementaire (RGPD, NIS2) · Analyse d'impact business · Priorisation budgétaire de la sécurité
+---
 
-## Équipe
+## 💰 Retour sur investissement
+
+* **Ratio 7:1** sur les mesures de sécurité proposées
+* Budget recommandé : 100-186 k€ (initial), 125-201 k€ (annuel), soit 0,37-0,59 % du CA — conforme aux recommandations sectorielles (0,5-1 % du CA)
+
+---
+
+## 🛡️ Préconisations
+
+* **Techniques** : EDR, WAF, segmentation réseau, homogénéisation du parc Windows
+* **Organisationnelles** : rédaction d'une PSSI, charte informatique, gestion des accès (moindre privilège), procédure de gestion des incidents, conformité RGPD (DPO, registre des traitements, AIPD), audits périodiques, clauses de sécurité fournisseurs
+* **Humaines** : programme de sensibilisation annuel (185 employés), campagnes de phishing simulé trimestrielles, formation de l'équipe IT, nomination d'un RSSI, veille sur les vulnérabilités SAP/Linux/Windows
+
+---
+
+## 📄 Rapport complet
+
+Le rapport complet du projet est disponible ici :
+
+📄 **SO-EMBALLAGE_Rapport.pdf** [SO-EMBALLAGE_Rapport.pdf](./SO-EMBALLAGE_Rapport.pdf)
+
+---
+
+## 🛠️ Méthodologies et référentiels utilisés
+
+* MEHARI (CLUSIF)
+* EBIOS Risk Manager (ANSSI)
+* ISO/IEC 27001:2022, ISO/IEC 27005:2022
+* RGPD, directive NIS2
+
+---
+
+## 👥 Équipe
 
 Projet réalisé en groupe dans le cadre de l'atelier Cyber & E-réputation (ING-MA CYBER, 11 février 2026) : Imelda Mague, Ephra, Mayeva, Alex.
-
-## Rapport complet
-
-📄 [Rapport complet (PDF)](./SO-EMBALLAGE_Rapport.pdf)
