@@ -61,7 +61,8 @@ Le système d'information étudié couvre :
 
 Le rapport complet du projet est disponible ici :
 
-📄 **SO-EMBALLAGE_Rapport.pdf** [SO-EMBALLAGE_Rapport.pdf](https://github.com/userattachments/files/32332503/GROUPE.8.Analyse.Risques.SO.EMBALLAGE.pdf)
+📄 **SO-EMBALLAGE_Rapport.pdf** [Analyse Risques SO EMBALLAGE.pdf](https://github.com/user-attachments/files/32332536/GROUPE.8.Analyse.Risques.SO.EMBALLAGE.pdf)
+
 
 ---
 
