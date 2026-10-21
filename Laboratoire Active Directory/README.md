@@ -1,4 +1,4 @@
-# 🏢 Laboratoire Active Directory — Mague.local
+# 🏢 Laboratoire Active Directory - Mague.local
 
 Travaux pratiques réalisés dans le cadre du **Master 1 Cybersécurité & Réseaux** (INGETIS Paris, Décembre 2025).
 
@@ -6,7 +6,7 @@ Travaux pratiques réalisés dans le cadre du **Master 1 Cybersécurité & Rése
 
 ## Contenu
 
-### TP1 — Création d'un domaine à plusieurs contrôleurs de domaine
+### TP1 - Création d'un domaine à plusieurs contrôleurs de domaine
 Déploiement d'une forêt Active Directory (`Mague.local`) avec plusieurs DC sous Windows Server 2022, gestion des rôles FSMO, niveau fonctionnel WinThreshold, et analyse d'une incompatibilité de version (Windows Server 2012 R2).
 
 [TP1_ADDS_Master_cyber_AGUEDIA_Imelda.pdf](https://github.com/user-attachments/files/28339513/TP1_ADDS_Master_cyber_AGUEDIA_Imelda.pdf)
