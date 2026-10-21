@@ -1,6 +1,6 @@
-# 🛡️ Windows Security Lab - SAM Protection and SID Management
+#  Windows Security Lab - SAM Protection and SID Management
 
-## 🎯 Objectif du projet
+##  Objectif du projet
 
 Ce projet analyse les mécanismes de sécurité Windows liés à la gestion des identifiants de sécurité (SID) et à la protection de la base SAM (Security Account Manager).
 
@@ -8,7 +8,7 @@ L'objectif est de comprendre comment Windows gère les utilisateurs et protège 
 
 ---
 
-## 🧠 Analyse des SID
+##  Analyse des SID
 
 Les SID (Security Identifiers) sont des identifiants uniques attribués aux utilisateurs et aux groupes dans Windows.
 
@@ -19,7 +19,7 @@ Ce laboratoire permet d'analyser :
 
 ---
 
-## 🔐 Sécurisation de la base SAM
+##  Sécurisation de la base SAM
 
 La base SAM contient les informations d'authentification des comptes Windows.
 
@@ -30,7 +30,7 @@ Plusieurs mesures de sécurité ont été étudiées :
 
 ---
 
-## 👥 Gestion des comptes utilisateurs
+## Gestion des comptes utilisateurs
 
 Des comptes de test ont été créés afin d'observer le fonctionnement des SID et des politiques de sécurité Windows.
 
