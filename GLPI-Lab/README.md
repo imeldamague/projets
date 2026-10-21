@@ -1,13 +1,13 @@
 
-# 🖥️ GLPI Lab – Gestion du Support Informatique
+#  GLPI Lab – Gestion du Support Informatique
 
-## 🎯 Objectif
+##  Objectif
 
 Mettre en place une plateforme GLPI pour la gestion des tickets et l’inventaire du parc informatique.
 
 ---
 
-## 🏢 Utilité en entreprise
+##  Utilité en entreprise
 
 GLPI permet de :
 
@@ -18,7 +18,7 @@ GLPI permet de :
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - Linux
 - Apache
@@ -28,7 +28,7 @@ GLPI permet de :
 
 ---
 
-## ⚙️ Étapes d'installation
+##  Étapes d'installation
 1. Installation Apache
 2. Installation MySQL
 3. Installation GLPI
@@ -37,8 +37,6 @@ GLPI permet de :
 
 ---
 mes captures 
-<img width="853" height="638" alt="glpi-lab png" src="https://github.com/user-attachments/assets/6364fc14-f2e1-4b0c-bc99-685726a2ac0d" />
-
-<img width="977" height="929" alt="Capture d&#39;écran 2025-07-18 125512" src="https://github.com/user-attachments/assets/8c3ed1b3-e87a-45d5-b88d-b0289862232f" />
-
-<img width="892" height="908" alt="Capture d&#39;écran 2025-07-18 125848" src="https://github.com/user-attachments/assets/48e8724a-1434-44eb-8584-d0cb7ed7ef3c" />
+<img width="977" height="929" alt="Capture d&#39;écran 2025-07-18 125512" src="https://github.com/user-attachments/assets/fab5bfb8-59a5-445e-8451-66820682a539" />
+<img width="892" height="908" alt="Capture d&#39;écran 2025-07-18 125848" src="https://github.com/user-attachments/assets/9c69d6ec-d553-4534-b0bf-5bacc3fe8892" />
+<img width="853" height="638" alt="glpi-lab png" src="https://github.com/user-attachments/assets/a684c4c0-c80d-40db-8730-31df3b308d43" />
