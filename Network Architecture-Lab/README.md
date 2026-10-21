@@ -1,6 +1,6 @@
-# 🌐 Network Architecture Project – ALPHANET
+# Network Architecture Project – ALPHANET
 
-## 🎯 Objectif du projet
+##  Objectif du projet
 
 Ce projet consiste à concevoir et sécuriser l'infrastructure réseau d'une entreprise multi-sites appelée **ALPHANET**.
 
@@ -16,7 +16,7 @@ Ce projet a été réalisé avec **Cisco Packet Tracer**.
 
 ---
 
-## 🧠 Architecture réseau
+## Architecture réseau
 
 L'infrastructure repose sur une architecture **Hub-and-Spoke**.
 
@@ -33,7 +33,7 @@ Cette architecture permet :
 
 ---
 
-## 🌍 Infrastructure multi-sites
+##  Infrastructure multi-sites
 
 Chaque site possède :
 
@@ -46,7 +46,7 @@ Cette séparation améliore la sécurité et la performance du réseau.
 
 ---
 
-## 🔐 Segmentation réseau avec VLAN
+##  Segmentation réseau avec VLAN
 
 Le réseau est segmenté en plusieurs VLAN afin d'isoler les différents types d'équipements :
 
@@ -65,7 +65,7 @@ La segmentation permet :
 
 ---
 
-## 🛡️ Mise en place des ACL (Access Control Lists)
+##  Mise en place des ACL (Access Control Lists)
 
 Plusieurs **ACL de sécurité** ont été configurées pour contrôler les communications entre VLAN.
 
@@ -78,7 +78,7 @@ Cette approche applique le principe de **moindre privilège**.
 
 ---
 
-## 🔒 Sécurisation des communications inter-sites
+##  Sécurisation des communications inter-sites
 
 La communication entre les sites est sécurisée grâce à des **tunnels VPN IPsec**.
 
@@ -92,7 +92,7 @@ Les données échangées entre les sites sont ainsi protégées contre les inter
 
 ---
 
-## 📡 Routage réseau
+##  Routage réseau
 
 Deux méthodes de routage ont été utilisées :
 
@@ -106,7 +106,7 @@ Cette combinaison permet une gestion simple et efficace du réseau multi-sites.
 
 ---
 
-## 🧪 Tests réalisés
+##  Tests réalisés
 
 Plusieurs tests ont été effectués pour valider l'infrastructure :
 
@@ -119,7 +119,7 @@ Les tests confirment le bon fonctionnement de l'architecture Hub-and-Spoke et de
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - Cisco Packet Tracer
 - VLAN
@@ -131,11 +131,12 @@ Les tests confirment le bon fonctionnement de l'architecture Hub-and-Spoke et de
 
 ---
 
-## 📸 Captures du projet
+##  Captures du projet
 
 ### Topologie réseau
 
-<img width="1030" height="774" alt="Topologie ALPHANET" src="https://github.com/user-attachments/assets/62b33179-ac26-45df-bbb5-0f1eb099ab09" />
+<img width="500" height="312" alt="Capture d&#39;écran 2026-01-08 190805" src="https://github.com/user-attachments/assets/e57bc3d7-2ca6-4b15-b5de-5cc591797a6e" />
+
 
 RAPPORT
 
@@ -143,7 +144,7 @@ RAPPORT
 
 ---
 
-## 🏢 Utilité en entreprise
+## Utilité en entreprise
 
 Cette architecture peut être utilisée par les entreprises possédant plusieurs sites.
 
