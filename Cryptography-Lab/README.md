@@ -1,7 +1,7 @@
 
-# 🔐 Cryptography Lab – Encryption with OpenSSL and Caesar Cipher
+#  Cryptography Lab – Encryption with OpenSSL and Caesar Cipher
 
-## 🎯 Objectif du projet
+##  Objectif du projet
 
 Ce projet explore les concepts fondamentaux de la **cryptographie**, notamment le chiffrement symétrique et les méthodes de chiffrement classiques.
 
@@ -13,7 +13,7 @@ Les expérimentations ont été réalisées avec :
 
 ---
 
-## 🔐 Chiffrement avec OpenSSL
+##  Chiffrement avec OpenSSL
 
 Plusieurs tests de chiffrement et de déchiffrement ont été réalisés avec OpenSSL afin de comprendre le fonctionnement des algorithmes de chiffrement symétrique.
 
@@ -26,7 +26,7 @@ Les tests incluent :
 
 ---
 
-## 🔑 Implémentation du chiffrement de César
+##  Implémentation du chiffrement de César
 
 Un script PowerShell a été développé pour implémenter le **chiffrement de César**, une technique classique de chiffrement.
 
@@ -48,7 +48,7 @@ Le rapport complet du projet est disponible ici :
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 * OpenSSL
 * Kali Linux
