@@ -193,7 +193,7 @@ Ces améliorations ne sont pas présentées comme déjà réalisées dans le lab
 
 ## 📄 Rapport du projet
 
-➡️ **[Consulter le rapport complet — AWS IAM](https://github.com/user-attachments/files/33782416/AGUEDIA.MAGUE.RSI.CLOUD.pdf)
+➡️ **[Consulter le rapport complet - AWS IAM](https://github.com/user-attachments/files/33782416/AGUEDIA.MAGUE.RSI.CLOUD.pdf)
 **
 
 Le rapport présente les étapes du TP, les commandes utilisées et les illustrations associées.
