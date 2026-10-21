@@ -57,10 +57,10 @@ Cette centralisation permet aux analystes SOC d'avoir une **vision globale de la
 
 Ma realisation 
 
-<img width="838" height="790" alt="Capture d&#39;écran 2025-08-21 113711" src="https://github.com/user-attachments/assets/a3eb318e-1c5f-43c7-8902-f2bb42aa98a5" />
+<img width="600" height="400" alt="Capture d&#39;écran 2025-08-21 113711" src="https://github.com/user-attachments/assets/a3eb318e-1c5f-43c7-8902-f2bb42aa98a5" />
 
-<img width="792" height="826" alt="Capture d&#39;écran 2025-08-21 114021" src="https://github.com/user-attachments/assets/cd6af4a3-e7e1-4b39-ad2c-53926d5db7a6" />
-<img width="1473" height="923" alt="Capture d&#39;écran 2025-08-22 200922" src="https://github.com/user-attachments/assets/97d73a9e-621c-43d4-95df-9f5b86bc05bd" />
+<img width="600" height="400" alt="Capture d&#39;écran 2025-08-21 114021" src="https://github.com/user-attachments/assets/cd6af4a3-e7e1-4b39-ad2c-53926d5db7a6" />
+<img width="600" height="400" alt="Capture d&#39;écran 2025-08-22 200922" src="https://github.com/user-attachments/assets/97d73a9e-621c-43d4-95df-9f5b86bc05bd" />
 
 ##  Captures du projet
 
@@ -115,9 +115,9 @@ Deux états peuvent apparaître dans le dashboard :
 
 Cela permet aux analystes SOC d'identifier rapidement les incidents de sécurité et de lancer les actions de réponse appropriées.
 
-<img width="600" height="468" alt="Capture d&#39;écran 2025-08-25 204519" src="https://github.com/user-attachments/assets/86400205-4b1c-4dc9-8425-b89f0eefa80a" />
+<img width="600" height="400" alt="Capture d&#39;écran 2025-08-25 204519" src="https://github.com/user-attachments/assets/86400205-4b1c-4dc9-8425-b89f0eefa80a" />
 
-<img width="600" height="410" alt="Capture d&#39;écran 2025-08-26 150341" src="https://github.com/user-attachments/assets/5f09f42e-7d59-4d70-b250-9c3dba383e54" />
+<img width="600" height="400" alt="Capture d&#39;écran 2025-08-26 150341" src="https://github.com/user-attachments/assets/5f09f42e-7d59-4d70-b250-9c3dba383e54" />
 
 ### Analyse des protocoles et des alertes détectées
 
@@ -138,6 +138,6 @@ Le second graphique présente le **Top des alertes générées par l’IDS Snort
 Ces visualisations permettent aux analystes SOC d’identifier rapidement les **types d’attaques les plus fréquents et les protocoles réseau les plus utilisés par les activités malveillantes**, facilitant ainsi l’analyse et la réponse aux incidents.
 
 
-<img width="809" height="499" alt="Capture d&#39;écran 2025-08-25 203936" src="https://github.com/user-attachments/assets/13b7e152-3a09-4e03-af06-b39323dd9ca2" />
-<img width="805" height="438" alt="Capture d&#39;écran 2025-08-31 130919" src="https://github.com/user-attachments/assets/5074905e-4288-4357-bb98-3f3dd119c0ae" />
+<img width="600" height="400" alt="Capture d&#39;écran 2025-08-25 203936" src="https://github.com/user-attachments/assets/13b7e152-3a09-4e03-af06-b39323dd9ca2" />
+<img width="600" height="400" alt="Capture d&#39;écran 2025-08-31 130919" src="https://github.com/user-attachments/assets/5074905e-4288-4357-bb98-3f3dd119c0ae" />
 
