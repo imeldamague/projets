@@ -1,4 +1,4 @@
-# ☁️ AWS IAM Lab — Gestion des identités et des accès
+# ☁️ AWS IAM Lab - Gestion des identités et des accès
 
 Travaux pratiques réalisés en **Bachelor 3 Réseaux et Systèmes Informatiques**.
 
