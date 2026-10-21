@@ -1,6 +1,6 @@
-# 🔐 IDS / IPS Lab – Intrusion Detection and Prevention with Snort
+#  IDS / IPS Lab – Intrusion Detection and Prevention with Snort
 
-## 🎯 Objectif du projet
+##  Objectif du projet
 
 L’objectif de ce projet est de mettre en place un système **IDS/IPS (Intrusion Detection and Prevention System)** avec **Snort** afin de surveiller le trafic réseau et détecter des activités malveillantes.
 
@@ -8,7 +8,7 @@ Ce laboratoire permet de comprendre comment les entreprises utilisent les IDS/IP
 
 ---
 
-# 🧠 Architecture du laboratoire
+#  Architecture du laboratoire
 
 Le laboratoire est composé de plusieurs machines virtuelles :
 
@@ -20,7 +20,7 @@ Le trafic réseau est analysé par Snort afin de détecter des comportements sus
 
 ---
 
-# ⚙️ Configuration de Snort
+#  Configuration de Snort
 
 Snort a été installé et configuré sur un système Linux.
 
@@ -86,7 +86,7 @@ alert tcp any any -> $HOME_NET any (msg:"ALERTE - Attaque DDoS detectee - Trafic
 
 ---
 
-# 🔎 Tests réalisés
+#  Tests réalisés
 
 Plusieurs attaques ont été simulées depuis Kali Linux afin de tester le système de détection :
 
@@ -102,19 +102,16 @@ Snort a détecté ces activités et généré des **alertes en temps réel**.
 # Captures du projet
 
 ### Configuration des règles Snort
-<img width="892" height="447" alt="Capture d&#39;écran 2025-08-20 230204" src="https://github.com/user-attachments/assets/e75abf49-237e-4d77-9f95-af702022d7c5" />
 
+<img width="300" height="300" alt="Capture d&#39;écran 2025-08-20 230204" src="https://github.com/user-attachments/assets/68f173ae-bf76-4ada-ac7b-0401119c1980" />
+<img width="300" height="300" alt="Capture d&#39;écran 2025-08-31 125840" src="https://github.com/user-attachments/assets/bd5d3d88-2db7-4088-9fa3-702f724ed163" />
 
 
 ### Détection d'attaque
+<img width="300" height="250" alt="Capture d&#39;écran 2025-08-20 231401" src="https://github.com/user-attachments/assets/a45601ca-3d8f-4063-9139-62e0aabe375b" />
 
-<img width="583" height="444" alt="Capture d&#39;écran 2025-08-17 062326" src="https://github.com/user-attachments/assets/cdd1ad26-05ab-4bfe-b1e2-dc1701f34078" />
 
-<img width="801" height="260" alt="Capture d&#39;écran 2025-08-20 231401" src="https://github.com/user-attachments/assets/e8cd3654-f35c-45d1-8525-73b1eb094a77" />
-
----
-
-# 🏢 Utilité en entreprise
+#  Utilité en entreprise
 
 Les systèmes IDS/IPS sont largement utilisés dans les entreprises pour :
 
@@ -127,7 +124,7 @@ Les alertes générées peuvent ensuite être envoyées vers un **SIEM** pour un
 
 ---
 
-# 🛠️ Technologies utilisées
+#  Technologies utilisées
 
 * Snort
 * Linux
