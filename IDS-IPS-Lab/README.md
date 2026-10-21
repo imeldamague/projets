@@ -103,12 +103,12 @@ Snort a détecté ces activités et généré des **alertes en temps réel**.
 
 ### Configuration des règles Snort
 
-<img width="300" height="300" alt="Capture d&#39;écran 2025-08-20 230204" src="https://github.com/user-attachments/assets/68f173ae-bf76-4ada-ac7b-0401119c1980" />
-<img width="300" height="300" alt="Capture d&#39;écran 2025-08-31 125840" src="https://github.com/user-attachments/assets/bd5d3d88-2db7-4088-9fa3-702f724ed163" />
+<img width="500" height="300" alt="Capture d&#39;écran 2025-08-20 230204" src="https://github.com/user-attachments/assets/68f173ae-bf76-4ada-ac7b-0401119c1980" />
+<img width="500" height="300" alt="Capture d&#39;écran 2025-08-31 125840" src="https://github.com/user-attachments/assets/bd5d3d88-2db7-4088-9fa3-702f724ed163" />
 
 
 ### Détection d'attaque
-<img width="300" height="250" alt="Capture d&#39;écran 2025-08-20 231401" src="https://github.com/user-attachments/assets/a45601ca-3d8f-4063-9139-62e0aabe375b" />
+<img width="500" height="250" alt="Capture d&#39;écran 2025-08-20 231401" src="https://github.com/user-attachments/assets/a45601ca-3d8f-4063-9139-62e0aabe375b" />
 
 
 #  Utilité en entreprise
