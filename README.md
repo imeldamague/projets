@@ -1,4 +1,4 @@
-# 🔐 Portfolio Cybersécurité — Imelda Magué
+# 🔐 Portfolio Cybersécurité - Imelda Magué
 
 Bienvenue sur mon portfolio technique. Vous trouverez ici mes laboratoires pratiques et études de cas couvrant la **gestion des identités (IAM)**, la **supervision SOC**, la **sécurité des infrastructures** et la **gouvernance des risques (GRC)**.
 
