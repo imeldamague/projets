@@ -4,7 +4,7 @@ Bienvenue sur mon portfolio technique. Vous trouverez ici mes laboratoires prati
 
 ---
 
-## 🌟 Projets Phares
+## Projets Phares
 
 | Projet | Domaine | Technologies & Référentiels | Lien |
 |--------|---------|-----------------------------|------|
