@@ -11,7 +11,7 @@ Bienvenue sur mon portfolio technique. Vous trouverez ici mes laboratoires prati
 | **ECOTRACK** | Sécurité IoT & SOC | 8 VMs, 4 VLANs, HAProxy WAF, Snort 3, Splunk, MQTT/TLS | [Voir le dépôt](https://github.com/imeldamague/ECOTRACK) |
 | **SO-EMBALLAGE** | Gouvernance & Risques | EBIOS RM, MEHARI, ISO 27001, RGPD, NIS2 | [Voir le dossier](https://github.com/imeldamague/projets/tree/main/so-emballage-risk-analysis) |
 | **Laboratoire Active Directory** | IAM & Hardening | Windows Server, AD DS, GPO, LAPS, AD CS, RODC | [Voir le dossier](https://github.com/imeldamague/projets/tree/main/Laboratoire%20Active%20Directory) |
-| **SOC Lab** | Détection & Supervision | Splunk, Wazuh, analyse de logs, investigation | [Voir le dossier](https://github.com/imeldamague/projets/tree/main/SOC%20Lab) |
+| **SOC Lab** | Détection & Supervision | Splunk, analyse de logs, investigation | [Voir le dossier](https://github.com/imeldamague/projets/tree/main/SOC%20Lab) |
 
 ---
 
